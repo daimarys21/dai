@@ -1,2 +1,2 @@
 # dai
-iconos para el pnp4nagios
+Mejora del frontend del pnp4Nagios
